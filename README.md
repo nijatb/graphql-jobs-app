@@ -1,3 +1,3 @@
 # GraphQL Job Board
 
-Sample application used in the GraphQL by Example course.
+Sample application created to use and experiemnt with GraphQL.
